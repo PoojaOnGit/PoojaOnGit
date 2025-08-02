@@ -1,44 +1,47 @@
-## Hi there 👋
+# 👩‍💻 Pooja Sonawane
 
-# 👋 Hi, I'm Pooja Sonawane
+**B.Tech in Cloud Technology & Information Security | AWS Enthusiast | Intern @ InnovationsHub Services Pvt Ltd | Sandip University, Nashik**
 
-🎓 Final-year B.Tech student at Sandip University, Nashik  
-🔍 Exploring the intersection of **cloud computing**, **Linux**, **digital forensics**, and **information security**  
-🚀 Passionate about building efficient, secure, and scalable solutions
+Welcome to my GitHub! I'm Pooja, a final-year engineering student with a strong foundation in cloud infrastructure, cybersecurity, and digital forensics. I thrive on solving real-world problems through automation, secure systems, and collaborative innovation.
 
 ---
 
-## 💡 About Me
-
-I'm a proactive learner who blends technical depth with creativity. Whether it's troubleshooting FastAPI routes, automating Git workflows, or simulating Linux command outputs, I love diving into challenges and finding elegant solutions.
-
-- 🧠 Currently working on a **blockchain-based carpooling system** for my final-year project  
-- 🛠️ Skilled in tools like Git, YAML, XML, CSV, and VirtualBox  
-- ☁️ Exploring AWS services like EC2, S3, Route 53, and CloudFront  
-- 🔐 Interested in forensic science concepts like metadata analysis and digital evidence handling  
-- 🎨 Designing engaging presentations and portfolios with animations and SEO optimization
+### 🌟 About Me
+- 🎓 Pursuing B.Tech in Cloud Technology & Information Security at Sandip University
+- 💼 Interning at InnovationsHub Services Pvt Ltd — gaining hands-on experience in cloud deployments and secure architectures
+- ☁️ Passionate about AWS, server-based projects, and hackathon culture
+- 🧠 Exploring GitHub workflows, FastAPI, forensic imaging, and Linux systems
 
 ---
 
-## 📂 Featured Project
-
-### [AarambhBoard](https://github.com/PoojaOnGit/AarambhBoard)  
-A smart initiative board designed to streamline ideas and collaboration.  
-> *Currently enhancing backend logic and hosting workflows.*
-
----
-
-## 🌐 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-handle) *(Add your actual LinkedIn link here)*  
-- 📬 Reach out for collaboration, project ideas, or just to geek out over Linux pipes and cloud automation!
+### 🛠️ Skills & Tools
+- **Cloud Platforms**: AWS EC2, S3, Route 53, Elastic Beanstalk
+- **DevOps & Automation**: GitHub Actions, Shell Scripting, PowerShell, VirtualBox
+- **Linux**: grep, find, pipes, SCP, compression tools
+- **Security & Forensics**: Metadata analysis, chain of custody, forensic imaging
+- **Web & Design**: HTML, CSS, animations, SEO, GitHub Pages
 
 ---
 
-## ✨ Fun Fact
-
-I simulate command outputs to visualize results—because learning should be both practical and fun!
+### 🚀 Projects & Highlights
+- **Blockchain Carpooling App** — Final-year project focused on decentralization and secure ride-sharing
+- **Portfolio Website** — Animated, SEO-optimized, and hosted with custom domain
+- **FastAPI Backend** — Troubleshooting Uvicorn and virtual environment setups
+- **Code Character @ Pragyan'25** — Solo participation in strategic coding challenge at NIT Tiruchirappalli
 
 ---
 
-> “Efficiency is doing things right; effectiveness is doing the right things.” – Peter Drucker
+### 📜 Certifications
+- **Generative AI** – Google Cloud Skills Boost (Jul 2025)
+- **Code Character - Pragyan'25** – Unstop (Feb 2025)
+
+---
+
+### 📫 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/pooja-sonawane-96304b282/)
+- 🌐 [GitHub Portfolio](https://poojaongit.github.io/Portfolio.github.io/)
+- 📧 Open to collaborations, internships, and tech challenges!
+
+---
+
+> _“Creativity is intelligence having fun.”_ — Albert Einstein
