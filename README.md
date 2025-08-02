@@ -17,8 +17,7 @@ A passionate and proactive learner exploring the intersections of computing, cyb
 - **Cloud Platforms**: AWS EC2, S3, Route 53, Elastic Beanstalk
 - **DevOps & Automation**: GitHub Actions, Shell Scripting, PowerShell, VirtualBox
 - **Linux**: grep, find, pipes, SCP, compression tools
-- **Security & Forensics**: Metadata analysis, chain of custody, forensic imaging
-- **Web & Design**: HTML, CSS, animations, SEO, GitHub Pages
+- **Web & Design**: HTML, CSS, animations, GitHub Pages
 
 ---
 
