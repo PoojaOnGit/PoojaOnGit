@@ -1,7 +1,8 @@
 # 👩‍💻 Pooja Sonawane
 
 **B.Tech in Cloud Technology & Information Security | AWS Enthusiast | Intern @ InnovationsHub Services Pvt Ltd | Sandip University, Nashik**
-A passionate and proactive learner exploring the intersections of computing, cybersecurity, and Information Security. From automating workflows to crafting creative presentations, I blend technical depth with design magic. 🚀
+
+A passionate and proactive learner exploring the intersections of computing and Information Security. From automating workflows to crafting creative presentations, I blend technical depth with design magic. 🚀
 
 ---
 
