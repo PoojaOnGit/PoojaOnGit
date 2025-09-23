@@ -8,9 +8,10 @@ A passionate and proactive learner exploring the intersections of computing and 
 
 ### 🌟 About Me
 - 🎓 Pursuing B.Tech in Cloud Technology & Information Security at Sandip University
-- 💼 Interning at InnovationsHub Services Pvt Ltd — gaining hands-on experience in cloud deployments and secure architectures
-- ☁️ Passionate about AWS, server-based projects, and hackathon culture
-- 🧠 Exploring GitHub workflows, FastAPI, forensic imaging, and Linux systems
+- Intern at Technohacks solutions Pvt Ltd
+- Ex-Intern at InnovationsHub Services Pvt Ltd — gaining hands-on experience in cloud deployments and secure architectures
+- Passionate about AWS, server-based projects, and hackathon culture
+- Exploring GitHub workflows, FastAPI, and Linux systems
 
 ---
 
