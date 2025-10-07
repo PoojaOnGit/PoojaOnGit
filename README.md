@@ -23,14 +23,6 @@ A passionate and proactive learner exploring the intersections of computing and 
 
 ---
 
-### 🚀 Projects & Highlights
-- **Blockchain Carpooling App** — Final-year project focused on decentralization and secure ride-sharing
-- **Portfolio Website** — Animated, SEO-optimized, and hosted with custom domain
-- **FastAPI Backend** — Troubleshooting Uvicorn and virtual environment setups
-- **Code Character @ Pragyan'25** — Solo participation in strategic coding challenge at NIT Tiruchirappalli
-
----
-
 ### 📜 Certifications
 - **Generative AI** – Google Cloud Skills Boost (Jul 2025)
 - **Code Character - Pragyan'25** – Unstop (Feb 2025)
